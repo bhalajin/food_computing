@@ -4,11 +4,17 @@ This repository provides the list of datasets available for food computing and a
 ## Existing Datasets
 | Name        | Description                                  | Year |
 |-------------|----------------------------------------------|------|  
-| [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/) | | |
-| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | | |
-| [UEC Food 100](http://foodcam.mobi/dataset100.html) | | |
-| [UEC Food 256](http://foodcam.mobi/dataset256.html) | | |
+| [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/) | 101 food categories with 101,000 images | 2014 |
+| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | | 2015 |
+| [UECFood-100](http://foodcam.mobi/dataset100.html) | | |
+| [UECFood-256](http://foodcam.mobi/dataset256.html) | | |
+| [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/) | | |
+| [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/) | | 2018 |
 | [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/) | | |
+| [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/) | | 2016 |
+| [UNIMIB2016](http://www.ivl.disco.unimib.it/activities/food-recognition/) | | 2017 |
+| [Food and Food Categories](https://github.com/ivanDonadello/Food-Categories-Classification) | | 2019 |
+| [UNICT-FD889](https://iplab.dmi.unict.it/UNICT-FD889/) | | 2014 |
 | [Receipe1M+](http://im2recipe.csail.mit.edu/) | | |
 
 ## Literature on Food Computing
