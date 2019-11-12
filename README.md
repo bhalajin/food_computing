@@ -31,3 +31,6 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 
 ## Food Challenges
 - [Food Recognition Challenge](https://www.aicrowd.com/challenges/food-recognition-challenge): AIcrowd (Ongoing Challenge)
+
+## Workshops/Conferences on Food
+- [International Workshop on Multimedia Assisted Dietary Management](https://madima.org/)
