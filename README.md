@@ -2,6 +2,10 @@
 This repository provides the list of datasets available for food computing and also lists the existing literature in this domain
 
 ## Existing Datasets
+- [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
+- [UEC Food 256](http://foodcam.mobi/dataset256.html)
+- [Food-201](https://storage.googleapis.com/food201/food201.zip)
+- [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)
 - [Receipe1M+](http://im2recipe.csail.mit.edu/)
 
 ## Literature on Food Computing
