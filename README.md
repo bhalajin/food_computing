@@ -5,7 +5,7 @@ This repository provides the list of datasets available for food computing and a
 | Name                                                                                  | # Images | # Classes | Task         | Year |
 |---------------------------------------------------------------------------------------|----------|-----------|--------------|---------|
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Detection(S) | 2014 |
-| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) |          |           |              | 2015 |
+| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Detection(M) | 2015 |
 | [UECFood-100](http://foodcam.mobi/dataset100.html)                                    |          |           |              |  |
 | [UECFood-256](http://foodcam.mobi/dataset256.html)                                    |          |           |              |  |
 | [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      |          |           |              |  |
