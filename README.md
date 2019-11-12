@@ -34,3 +34,4 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 
 ## Workshops/Conferences on Food
 - [International Workshop on Multimedia Assisted Dietary Management](https://madima.org/)
+- [Workshop on Multimedia for Cooking and Eating Activities](https://sigcea.org/workshop/2020/index.html)
