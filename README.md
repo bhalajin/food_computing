@@ -4,12 +4,12 @@ This repository provides the list of datasets available for food computing and a
 ## Existing Datasets
 In the below table, SL corresponds to Single labels, ML to multi labels and PL to Pixed level annotations
 
-| Name                                                                                  | # Images | # Classes | Task         | Year |
+| Name                                                                                  | # Images | # Classes | Task         | Year   |
 |---------------------------------------------------------------------------------------|----------|-----------|--------------|---------|
-| [Food-5k](https://mmspg.epfl.ch/downloads/food-image-datasets/)                    | 5,000  | 2       | Detection | 2016 |
-| [Food-11](https://mmspg.epfl.ch/downloads/food-image-datasets/)                    | 16,643  | 11       | Classification-SL | 2016 |
+| [Food-5k](https://mmspg.epfl.ch/downloads/food-image-datasets/)                       | 5,000    | 2         | Detection    | 2016   |
+| [Food-11](https://mmspg.epfl.ch/downloads/food-image-datasets/)                       | 16,643   | 11        | Classification-SL | 2016 |
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Classification-SL | 2014 |
-| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Classification-ML annotations | 2015 |
+| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Classification-ML | 2015 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 9,654    | 203       | Classification-PL | 2015 |
 | [UECFood-100](http://foodcam.mobi/dataset100.html)                                    |          |           |              |  |
 | [UECFood-256](http://foodcam.mobi/dataset256.html)                                    |          |           |              |  |
@@ -18,7 +18,7 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)            | || | |
 | [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/)                           | | || 2016 |
 | [UNIMIB2016](http://www.ivl.disco.unimib.it/activities/food-recognition/)             | | || 2017 |
-| [Food and Food Categories](https://github.com/ivanDonadello/Food-Categories-Classification) || | | 2019 |
+| [Food and Food Categories](https://github.com/ivanDonadello/Food-Categories-Classification) | 58,962 | 156 | Classification - S/M | 2019 |
 | [UNICT-FD889](https://iplab.dmi.unict.it/UNICT-FD889/)                                | | | | 2014 |
 | [Receipe1M+](http://im2recipe.csail.mit.edu/)                                         | | | |  |
 
