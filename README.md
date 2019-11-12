@@ -6,6 +6,8 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 
 | Name                                                                                  | # Images | # Classes | Task         | Year |
 |---------------------------------------------------------------------------------------|----------|-----------|--------------|---------|
+| [Food-5k](https://mmspg.epfl.ch/downloads/food-image-datasets/)                    | 5,000  | 2       | Detection | 2016 |
+| [Food-11](https://mmspg.epfl.ch/downloads/food-image-datasets/)                    | 16,643  | 11       | Classification-SL | 2016 |
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Classification-SL | 2014 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Classification-ML annotations | 2015 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 9,654    | 203       | Classification-PL | 2015 |
