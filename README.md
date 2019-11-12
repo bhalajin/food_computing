@@ -5,8 +5,9 @@ This repository provides the list of datasets available for food computing and a
 | Name        | Description                                  | Year |
 |-------------|----------------------------------------------|------|  
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/) | | |
+| [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | | |
+| [UEC Food 100](http://foodcam.mobi/dataset100.html) | | |
 | [UEC Food 256](http://foodcam.mobi/dataset256.html) | | |
-| [Food-201](https://storage.googleapis.com/food201/food201.zip) | | |
 | [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/) | | |
 | [Receipe1M+](http://im2recipe.csail.mit.edu/) | | |
 
