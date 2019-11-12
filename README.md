@@ -11,7 +11,7 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Classification-SL | 2014 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Classification-ML | 2015 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 9,654    | 203       | Classification-PL | 2015 |
-| [UECFood-100](http://foodcam.mobi/dataset100.html)                                    |          |           |              |  |
+| [UECFood-100](http://foodcam.mobi/dataset100.html)                                    | 14,567   | 100       | Classification-SL | 2012 |
 | [UECFood-256](http://foodcam.mobi/dataset256.html)                                    |          |           |              |  |
 | [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      |          |           |              |  |
 | [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/)                      | || | 2018 |
