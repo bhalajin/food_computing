@@ -2,6 +2,7 @@
 This repository provides the list of datasets available for food computing and also lists the existing literature in this domain
 
 ## Existing Datasets
+In the below table, SL corresponds to Single labels, ML to multi labels and PL to Pixed level annotations
 | Name                                                                                  | # Images | # Classes | Task         | Year |
 |---------------------------------------------------------------------------------------|----------|-----------|--------------|---------|
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Classification-SL | 2014 |
