@@ -13,8 +13,8 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 9,654    | 203       | Classification-PL | 2015 |
 | [UECFood-100](http://foodcam.mobi/dataset100.html)                                    | 14,567   | 100       | Classification-SL | 2012 |
 | [UECFood-256](http://foodcam.mobi/dataset256.html)                                    |          |           |              |  |
-| [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      |          |           |              |  |
-| [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/)                      | || | 2018 |
+| [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      | 247,636  | 524       | Classification-SL | 2017 |
+| [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/)                      | 247,636  | 475       | Classification-SL | 2018 |
 | [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)            | || | |
 | [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/)                           | | || 2016 |
 | [UNIMIB2016](http://www.ivl.disco.unimib.it/activities/food-recognition/)             | | || 2017 |
