@@ -4,9 +4,9 @@ This repository provides the list of datasets available for food computing and a
 ## Existing Datasets
 In the below table, SL corresponds to Single labels, ML to multi labels and PL to Pixed level annotations
 
-| Name                                                                                  | # Images | # Classes | Task         | Year   |
-|---------------------------------------------------------------------------------------|----------|-----------|--------------|---------|
-| [Food-5k](https://mmspg.epfl.ch/downloads/food-image-datasets/)                       | 5,000    | 2         | Detection    | 2016   |
+| Name | # Images | # Classes | Task | Year |
+|------|----------|-----------|------|------|
+| [Food-5k](https://mmspg.epfl.ch/downloads/food-image-datasets/) | 5,000 | 2 | Detection | 2016 |
 | [Food-11](https://mmspg.epfl.ch/downloads/food-image-datasets/)                       | 16,643   | 11        | Classification-SL | 2016 |
 | [Food-101](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)                    | 101,000  | 101       | Classification-SL | 2014 |
 | [Food-201 (Direct download link)](https://storage.googleapis.com/food201/food201.zip) | 50,475   | 201       | Classification-ML | 2015 |
@@ -15,7 +15,7 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [UECFood-256](http://foodcam.mobi/dataset256.html)                                    |          |           |              |  |
 | [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      | 247,636  | 524       | Classification-SL | 2017 |
 | [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/)                      | 247,636  | 475       | Classification-SL | 2018 |
-| [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)            | || | |
+| [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)            | || | 2015 |
 | [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/)                           | | || 2016 |
 | [UNIMIB2016](http://www.ivl.disco.unimib.it/activities/food-recognition/)             | | || 2017 |
 | [Food and Food Categories](https://github.com/ivanDonadello/Food-Categories-Classification) | 58,962 | 156 | Classification - S/M | 2019 |
