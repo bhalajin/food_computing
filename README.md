@@ -24,6 +24,8 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [Receipe1M+](http://im2recipe.csail.mit.edu/)                                         | | | |  |
 
 ## Literature on Food Computing
+### KDD 2019
+- _Sahoo, Doyen, Wang Hao, Shu Ke, Wu Xiongwei, Hung Le, Palakorn Achananuparp, Ee-Peng Lim, and Steven CH Hoi,_ ["FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging"](https://dl-acm-org.sire.ub.edu/citation.cfm?id=3330734)
 ### CVPR 2019
 - _Amaia Salvador, Michal Drozdzal, Xavier Giro-i-Nieto and Adriana Romero,_ ["Inverse Cooking: Recipe Generation From Food Images"](http://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf)
   - [Link to Support Code](https://github.com/facebookresearch/inversecooking)
