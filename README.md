@@ -16,13 +16,13 @@ In the below table, SL corresponds to Single labels, ML to multi labels and PL t
 | [Food-524](http://www.ivl.disco.unimib.it/activities/food524db/)                      | 247,636  | 524       | Classification-SL | 2017 |
 | [Food-475](http://www.ivl.disco.unimib.it/activities/food475db/)                      | 247,636  | 475       | Classification-SL | 2018 |
 | [FooDD: Food Detection Dataset](http://www.site.uottawa.ca/~shervin/food/)            | || | 2015 |
-| [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/)                           | | || 2016 |
+| [VireoFood-172](http://vireo.cs.cityu.edu.hk/VireoFood172/)                           | 110,241 | 173 || 2016 |
 | [UNIMIB2016](http://www.ivl.disco.unimib.it/activities/food-recognition/)             | | || 2017 |
 | [Food and Food Categories](https://github.com/ivanDonadello/Food-Categories-Classification) | 58,962 | 156 | Classification - S/M | 2019 |
 | [UNICT-FD889](https://iplab.dmi.unict.it/UNICT-FD889/) | 3583 | 889 | Classification | 2014 |
 | [UNICT-FD1200](https://iplab.dmi.unict.it/UNICT-FD1200/) | 4754 | 1200 | Classification | 2016 | 
 | [FoodX-251](https://arxiv.org/abs/1907.06167/) | 158k  | 251 | Classification-SL | 2019 |
-| [ChineseFoodNet](https://sites.google.com/view/chinesefoodnet/) | 185k  | 208 | Classification-SL | 2017 |
+| [ChineseFoodNet](https://sites.google.com/view/chinesefoodnet/) | 185,628  | 208 | Classification-SL | 2017 |
 | [Receipe1M+](http://im2recipe.csail.mit.edu/)                                         | | | |  |
 
 ## Literature on Food Computing
